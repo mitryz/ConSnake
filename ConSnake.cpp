@@ -1,5 +1,3 @@
-/** Copyright (c) 2016 Dmitry V. Babushkin <mitryz> */
-
 #include <windows.h>
 #include <cstdio>
 #include <cstdlib>
